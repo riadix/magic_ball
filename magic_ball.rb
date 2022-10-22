@@ -1,7 +1,7 @@
 greetings = [
-  "Привет, дорогой друг. Отвечаю на твой вопрос...",
-  "Кто вопрошает, тот получит ответ:",
-  "Здравствуй, смертный. Сегодня для тебя такой ответ:"
+  "Hello, my dear friend. I will answer your question...",
+  "Who asks will get an answer:",
+  "Hello, mortal. Today you get this answer:"
 ]
 
 answers = [
